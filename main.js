@@ -19,7 +19,7 @@ render() {
 class Meme extends Classic{
   constructor(art_url) {
     super(art_url)
-    this.frame = 'hotpink'
+    this.frame = 'lightblue'
 
   }
 }
